@@ -7,7 +7,7 @@
     "repositories": [
         {
             "type": "vcs",
-           // "url": //"https://github.com/laravel-boolando/pavificdev.git"
+            "url": "https://github.com/natdm02/laravel-boolando/pavificdev.git"
         }
     ],
     "require": {
